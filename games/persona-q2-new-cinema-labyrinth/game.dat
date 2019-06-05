@@ -1,0 +1,14 @@
+title = "Persona Q2: New Cinema Labyrinth"
+description = "Persona Q2 is the sequel to the Persona Q: Shadow of The Labyrinth. The Game feature the same dungeon crawling, conversing and battles as the first game, although now with more cast members (Persona 3, 4 and 5) and much more varied scenery. Taking place within a cinema, the player has access to several \"Films\" to explore."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D7100"
+region = "usa"
+release_date = "2019-06-04"
+
+[[releases]]
+title = "00040000001CBE00"
+region = "jpn"
+release_date = "2018-11-29"
